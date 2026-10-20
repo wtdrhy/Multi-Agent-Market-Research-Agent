@@ -1,0 +1,11 @@
+.venv/
+.git/
+.github/
+.idea/
+.workbuddy/
+__pycache__/
+*.pyc
+.env
+output/
+tests/
+*.md
