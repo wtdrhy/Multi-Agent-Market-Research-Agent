@@ -1,0 +1,10 @@
+# 多智能体框架：主管调度、共享 State、并行分支都靠它
+langgraph>=0.2.0
+# 大模型客户端（DeepSeek 是 OpenAI 兼容接口）
+openai>=1.0.0
+# 从 .env 文件读取密钥
+python-dotenv>=1.0.0
+# 联网搜索（Tavily）
+tavily-python>=0.5.0
+# 请求重试（限流 / 网络抖动时指数退避）
+tenacity>=8.2.0
